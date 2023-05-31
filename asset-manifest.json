@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/image-search-engine/static/css/main.e349b130.css",
+    "main.js": "/image-search-engine/static/js/main.cc40027e.js",
+    "static/media/search-icon.png": "/image-search-engine/static/media/search-icon.06aaae4d2daacad0d8f2.png",
+    "index.html": "/image-search-engine/index.html",
+    "main.e349b130.css.map": "/image-search-engine/static/css/main.e349b130.css.map",
+    "main.cc40027e.js.map": "/image-search-engine/static/js/main.cc40027e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e349b130.css",
+    "static/js/main.cc40027e.js"
+  ]
+}
