@@ -13,6 +13,19 @@ You can see a preview of the working application
 - Shows a loader while images are being loaded.
 - Opens a modal with a larger version of the image when clicked.
 
+## Technologies Used
+
+The Image Search Engine is built using the following technologies:
+
+- React
+- TypeScript
+- Axios
+- Formik
+- Yup
+- Styled-Components
+- React-Toastify
+- React loader spinner
+
 ## Installation
 
 To run this application locally on your computer, you need to have TypeScript installed globally.
